@@ -87,7 +87,8 @@ public:
           "Balázs Úr\n"
           "Erwin Poeze\n"
           "Michal Lisowski\n"
-          "Timirtdinov Leonid";
+          "Timirtdinov Leonid\n"
+          "Rihards Priedītis";
         set_translator_credits (translators);
         set_logo_icon_name ("lordsawar");
 
